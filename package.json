@@ -14,9 +14,10 @@
     "axios": "^1.8.4",
     "bootstrap": "^5.3.3",
     "react": "^19.1.0",
+     "react-scripts": "latest",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.4.1",
-    "react-scripts": "^5.0.1"
+    "react-router-dom": "^7.4.1"
+
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
